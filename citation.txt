@@ -1,0 +1,6 @@
+@article{REPO044,
+    author = "Tang, Fenghe and Ding, Jianrui and Wang, Lingtao and Xian, Min and Ning, Chunping",
+    journal = "arXiv preprint arXiv:2305.09447",
+    title = "{Multi-Level Global Context Cross Consistency Model for Semi-Supervised Ultrasound Image Segmentation with Diffusion Model}",
+    year = "2023"
+}
